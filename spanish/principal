@@ -1,5 +1,5 @@
 #-----Use VideoCapture in OpenCV-----
-import cv2
+import opencv-python as cv2
 import dlib
 import math
 BLINK_RATIO_THRESHOLD = 5.7
